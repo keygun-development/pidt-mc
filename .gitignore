@@ -1,0 +1,32 @@
+# Java & Gradle
+/build/
+/out/
+/bin/
+/gradle/
+/.gradle/
+/.idea/
+/*.iml
+/.vscode/
+/*.log
+
+fabric/.gradle/
+fabric/build/
+forge/.gradle/
+forge/build/
+common/.gradle/
+common/build/
+fabric/run/
+forge/run/
+
+
+# Minecraft-related
+/.run/
+logs/
+crash-reports/
+debug.log
+hs_err_pid*.log
+
+# Local Configs
+config/
+pidtmc.json
+.env

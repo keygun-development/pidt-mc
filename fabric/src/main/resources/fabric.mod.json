@@ -19,7 +19,7 @@
       "com.keygun2001.fabric.PidtMCFabric"
     ],
     "client": [
-      "com.keygun2001.fabric.client.ExampleModFabricClient"
+      "com.keygun2001.fabric.client.PidtMcClient"
     ]
   },
   "mixins": [
